@@ -1,0 +1,7 @@
+Total login attempts: 22
+Successful logins: 0
+Failed logins: 22
+Internal IPs: 0
+External IPs: 0
+
+Possible brute-force alerts:
